@@ -1,4 +1,5 @@
 # Java Programs
 
-In this GitHub repo you will get the code of various Math Functions in Java.
-To view all the files click on the Math Functions folder.
+In this GitHub repo you will get the code of various Math Functions and For Loops in Java.
+
+To view the files click on the folder names.
