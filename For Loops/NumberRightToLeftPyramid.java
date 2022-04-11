@@ -7,9 +7,9 @@ public class NumberPyramid2 {
         int counter;
         counter = scan.nextInt();
         //outer loop
-        for(int i = 1; i <= 10; i++){
+        for(int i = 1; i <= counter; i++){
             //inner loop
-            for(int j = 1; j <= 10 - i + 1; j++){
+            for(int j = 1; j <= counter - i + 1; j++){
                 System.out.print(j+" ");
             }
             System.out.println();
