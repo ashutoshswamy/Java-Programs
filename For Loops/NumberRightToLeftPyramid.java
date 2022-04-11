@@ -1,5 +1,11 @@
-public class NumberRightToLeftPyramid {
+import java.util.Scanner;
+
+public class NumberPyramid2 {
     public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.print("Please enter the number of lines: ");
+        int counter;
+        counter = scan.nextInt();
         //outer loop
         for(int i = 1; i <= 10; i++){
             //inner loop
